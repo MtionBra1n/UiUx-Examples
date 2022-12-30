@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/+++Workdata/Slider and Sound/Scenes/Slider and.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
