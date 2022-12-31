@@ -59,18 +59,24 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\CheckMusicVolume.cs" />
-    <Compile Include="Assets\+++Workdata\Slider and Sound\Scripts\SliderBehaviour.cs" />
+    <Compile Include="Assets\+++Workdata\#04 Toggle\Scripts\Item.cs" />
+    <Compile Include="Assets\+++Workdata\#02 Button #2 Button Events\Scripts\ButtonEventManager.cs" />
+    <Compile Include="Assets\+++Workdata\#02 Button #2 Button Events\Scripts\ButtonManager.cs" />
+    <Compile Include="Assets\+++Workdata\#03 Slider and Sound\Scripts\SliderBehaviour.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\OptionsMenuNew.cs" />
+    <Compile Include="Assets\+++Workdata\#04 Toggle\Scripts\ToggleManager.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\ResetDemo.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\FlexibleUI.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\FlexibleUIElement.cs" />
+    <Compile Include="Assets\+++Workdata\#04 Toggle\Scripts\ItemBehaviour.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\ExtraLinks.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\FlexibleUIData.cs" />
-    <Compile Include="Assets\+++Workdata\Button #2 Button Events\Scripts\ButtonEventBehaviour.cs" />
+    <Compile Include="Assets\+++Workdata\#04 Toggle\Scripts\InventoryManager.cs" />
+    <Compile Include="Assets\+++Workdata\#04 Toggle\Scripts\InventorySlot.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\CheckSFXVolume.cs" />
-    <Compile Include="Assets\+++Workdata\Slider and Sound\Scripts\SoundManager.cs" />
-    <Compile Include="Assets\+++Workdata\Button #2 Button Events\Scripts\ButtonEventManager.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\MainMenuNew.cs" />
+    <Compile Include="Assets\+++Workdata\#03 Slider and Sound\Scripts\SoundManager.cs" />
+    <Compile Include="Assets\+++Workdata\#02 Button #2 Button Events\Scripts\ButtonEventBehaviour.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
