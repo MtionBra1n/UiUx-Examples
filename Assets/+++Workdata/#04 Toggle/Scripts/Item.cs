@@ -6,6 +6,6 @@ public class Item : ScriptableObject
     public Sprite itemSprite;
     public int itemId;
     public string itemName;
-    public int value;
+    public int itemValue;
     public string itemDescription;
 }

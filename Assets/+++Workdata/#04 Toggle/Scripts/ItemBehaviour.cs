@@ -5,6 +5,7 @@ using UnityEngine;
 public class ItemBehaviour : MonoBehaviour
 {
     public Item item;
+    public int amount;
 }
 
 
