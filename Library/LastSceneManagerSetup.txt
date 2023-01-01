@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/+++Workdata/#03 Slider and Sound/Scenes/Slider and.unity
+- path: Assets/+++Workdata/#05 Interaction and Off Screen Indicator/Scenes/RPG-Character.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
