@@ -1,9 +1,17 @@
 sceneSetups:
-- path: Assets/+++Workdata/#03 Slider and Sound/Scenes/Slider and.unity
-  isLoaded: 0
-  isActive: 0
-  isSubScene: 0
 - path: Assets/+++Workdata/#01 Button #1 Button Types/Scene/Button Types.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
+- path: Assets/+++Workdata/#02 Button #2 Button Events/Scenes/Button Events.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/+++Workdata/#03 Slider and Sound/Scenes/Slider and.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/+++Workdata/#04 Toggle/Scenes/Toggle.unity
+  isLoaded: 1
+  isActive: 0
   isSubScene: 0
